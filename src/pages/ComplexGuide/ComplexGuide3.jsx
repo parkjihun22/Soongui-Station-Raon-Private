@@ -9,7 +9,9 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
 
-import page1 from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
+// import page1 from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
+
+import Ready from "../../components/Ready/Ready";
 
 
 
@@ -73,7 +75,7 @@ const ComplexGuide3 = () => {
 
       <Header isChanged={isScroll} />
       <FixIcon />
-      <Bener title="커뮤니티" />
+      <Bener title="단지안내" />
       <MenuBar contents={menuContents} />
 
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
@@ -93,12 +95,14 @@ const ComplexGuide3 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      <img
+      {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="숭의역 라온프라이빗 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/>
+			/> */}
+
+      <Ready/>
 
 
 

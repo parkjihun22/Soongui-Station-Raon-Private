@@ -9,7 +9,9 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
 
-import page1 from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
+// import page1 from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
+
+import Ready from "../../components/Ready/Ready";
 
 
 
@@ -74,7 +76,7 @@ const ComplexGuide1 = () => {
 
       <Header isChanged={isScroll} />
       <FixIcon />
-      <Bener title="호수배치도" />
+      <Bener title="단지안내" />
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
@@ -93,12 +95,14 @@ const ComplexGuide1 = () => {
 
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      <img
+      {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="숭의역 라온프라이빗 호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/>
+			/> */}
+
+      <Ready/>
 
 
   

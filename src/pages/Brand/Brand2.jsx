@@ -97,7 +97,7 @@ const Brand2 = () => {
 
 			<div className={styles.videoContainer}>
 				<YouTube
-					videoId="OACqO8K3F9g"
+					videoId=""
 					opts={{
 						width: isMobile ? "400" : "1300",
 						height: isMobile ? "300" : "500",

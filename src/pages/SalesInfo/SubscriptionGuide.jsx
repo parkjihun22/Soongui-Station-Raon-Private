@@ -8,7 +8,7 @@ import Footer from "../../components/Footer/Footer";
 import Bener from "../../components/Bener/Bener";
 import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
-// import page1 from "../../assets/SalesInfo/SubscriptionGuide/page1.jpg";
+import page1 from "../../assets/SalesInfo/SubscriptionGuide/defaultinfo.jpg";
 
 import Ready from "../../components/Ready/Ready";
 
@@ -17,9 +17,9 @@ import Ready from "../../components/Ready/Ready";
 const ComplexGuide1 = () => {
   const menuContents = [
     { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약안내문", url: "/SalesInfo/guide" },
+    { title: "청약체크포인트", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
-    { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
+    { title: "인터넷청약체크포인트", url: "/SalesInfo/stampTax" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -86,15 +86,12 @@ const ComplexGuide1 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      {/* <img
+      <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
         alt="숭의역 라온프라이빗 청약제도 변경안내 이미지1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-      /> */}
-
-
-      <Ready/>
+      />
 
 
 

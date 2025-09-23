@@ -7,7 +7,7 @@ import MenuBar from "../../components/MenuBar/MenuBar";
 import Footer from "../../components/Footer/Footer";
 import Bener from "../../components/Bener/Bener";
 import FixIcon from "../../components/FixIcon/FixIcon";
-import page1 from "../../assets/BusinessGuide/BusinessGuide1/page1.jpg";
+import page1 from "../../assets/BusinessGuide/BusinessGuide1/intro_overview.jpg";
 import tableImage from "../../assets/BusinessGuide/BusinessGuide1/tableImage.jpg";
 import { Helmet } from "react-helmet-async";
 
@@ -18,12 +18,12 @@ import { Helmet } from "react-helmet-async";
 const projectData = [
 	{ label: '사업명', value: '숭의역 라온프라이빗' },
 	{ label: '사업위치', value: '인천광역시 중구 신흥동3가 일원' },
-	{ label: '대지면적', value: '추후 공지' },
-	{ label: '건축면적', value: '추후 공지' },
-	{ label: '연면적', value: '추후 공지' },
-	{ label: '용적률', value: '추후 공지' },
+	{ label: '대지면적', value: '8,155.20㎡' },
+	{ label: '건폐율', value: '50.04%' },
+	{ label: '연면적', value: '94,114.8939㎡' },
+	{ label: '용적률', value: '751.59%' },
 	{ label: '건축규모', value: '지하 5층 ~ 지상 41층, 주상복합 4개동' },
-	{ label: '세대수', value: '아파트 440세대 / 오피스텔 168실' },
+	{ label: '세대수', value: '아파트 59㎡, 84㎡ 440세대 / 오피스텔 44㎡ 168실' },
   ];
   
   const BusinessGuide1 = () => {

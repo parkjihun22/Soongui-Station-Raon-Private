@@ -9,7 +9,7 @@ import Bener from "../../components/Bener/Bener";
 import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/Brand/intro/page1.jpg";
+import page1 from "../../assets/Brand/intro/brand01.jpg";
 
 const Brand1 = () => {
     const menuContents = [{ title: "브랜드 소개", url: "/brand/intro" }, { title: "홍보 영상", url: "/brand/video" }];

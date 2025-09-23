@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import LocationSectionBox from "../../components/LocationSectionBox/LocationSectionBox";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/LocationEnvironment/LocationEnvironment1/page1.jpg";
+import page1 from "../../assets/LocationEnvironment/LocationEnvironment1/premium01.jpg";
 import section2Image1 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-1.jpg";
 import section2Image2 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-2.jpg";
 import section2Image3 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-3.jpg";
@@ -22,41 +22,42 @@ import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 const LocationSection = [
   {
     img: section2Image1,
-    titleText: "도안신도시 개발호재 중심지<br />탄탄한 미래가치 입지",
+    titleText: "숭의역 초역세권·원도심 재생호재<br />미래가치 중심 입지",
     contentText:
-      "서남부종합스포츠타운(예정)과 도안 3단계 개발로 주거·문화 인프라 확충<br />신규 도시개발과 기반시설 확장으로 미래가치 기대",
+      "수인·분당선 ‘숭의(인하대병원)역’ 도보권 초역세권<br />인천 내항·원도심 재생사업 등 다층 호재로 미래가치 기대",
   },
   {
     img: section2Image2,
-    titleText: "의료 인프라 프리미엄<br />건강케어 중심 입지",
+    titleText: "의료 인프라 프리미엄<br />인하대병원 도보권",
     contentText:
-      "충남대학교병원, 유성선병원 등 대형 종합병원 인접<br />다양한 전문의료기관과 건강검진센터로 편리한 의료 접근성",
+      "인하대병원 인접(응급·전문센터 접근 용이)<br />인천의료원·전문의원 밀집으로 편리한 의료 네트워크",
   },
   {
     img: section2Image3,
-    titleText: "도시철도 2호선(트램) + 광역도로망<br />뛰어난 광역접근성",
+    titleText: "철도·광역도로망<br />수도권 직결 광역접근성",
     contentText:
-      "대전 도시철도 2호선(예정) 노선 수혜<br />유성IC·현충원IC(예정)로 세종·청주·전국 주요도시 연결",
+      "수인·분당선 이용, 인천/서울 도심 연결 수월<br />인천대로·제2경인고속도로·문학IC·도화IC로 차량 이동 편리",
   },
   {
     img: section2Image4,
-    titleText: "생활 인프라 접근성<br />원스톱 도심생활 기반",
+    titleText: "생활 인프라 밀집<br />원스톱 도심 라이프",
     contentText:
-      "홈플러스, 대형마트, 카페거리, 문화시설 등 생활·문화 인프라 밀집<br />관공서, 금융기관 등 도심 생활 편의성 우수",
+      "전통시장·대형마트·관공서·문화시설 인접<br />금융·편의·상업시설이 가까운 도심 생활권",
   },
   {
     img: section2Image5,
-    titleText: "브랜드타운 스케일<br />5,000세대 라온프라이빗",
+    titleText: "직주근접·교육환경<br />균형 잡힌 생활권",
     contentText:
-      "1·2·3·5단지 총 5,329세대 규모의 초대형 브랜드타운<br />라온건설 라온프라이빗 브랜드 가치와 단지 커뮤니티 활성화 기대",
+      "송도국제도시·항만·산업벨트 근접한 배후수요<br />초·중·고 및 대학(인하대) 인근으로 교육 여건 우수",
   },
   {
     img: section2Image6,
-    titleText: "쾌적한 자연·휴식 인프라<br />여유로운 생활환경",
+    titleText: "자연·휴식 인프라<br />바다·공원 생활권",
     contentText:
-      "갑천, 유림공원, 도안근린공원 등 녹지와 공원 인접<br />쾌적한 주거환경과 친환경 라이프스타일 실현",
+      "월미도·자유공원·근린공원 등 녹지 접근성<br />내항 수변·도심 조망(동·호수별 상이)으로 쾌적한 일상",
   },
 ];
+
 
 
 

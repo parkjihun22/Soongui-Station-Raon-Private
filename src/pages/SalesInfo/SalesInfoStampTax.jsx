@@ -7,7 +7,7 @@ import Footer from "../../components/Footer/Footer";
 import Bener from "../../components/Bener/Bener";
 import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
-// import page1 from "../../assets/SalesInfo/SalesInfoStampTax/page1.jpg";
+import page1 from "../../assets/SalesInfo/SalesInfoStampTax/internetinfo.jpg";
 
 import Ready from "../../components/Ready/Ready";
 
@@ -15,9 +15,9 @@ import Ready from "../../components/Ready/Ready";
 const ComplexGuide1 = () => {
   const menuContents = [
     { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약안내문", url: "/SalesInfo/guide" },
+    { title: "청약체크포인트", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
-    { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
+    { title: "인터넷청약체크포인트", url: "/SalesInfo/stampTax" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -54,10 +54,10 @@ const ComplexGuide1 = () => {
 
 
         <Helmet>
-          <title>숭의역 라온프라이빗 - 인지세 납부 안내</title>
+          <title>숭의역 라온프라이빗 - 인터네청약안내</title>
           <meta
             name="description"
-            content="숭의역 라온프라이빗 분양계약 시 필요한 인지세 납부 기준과 절차, 비용 및 유의사항을 한눈에 확인하세요."
+            content="숭의역 라온프라이빗 분양계약 시 필요한 인터넷 청약하는 방법과 유의사항을 한눈에 확인하세요."
           />
           <link rel="canonical" href="https://tradexmeds.com/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
@@ -73,12 +73,12 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        숭의역 라온프라이빗 - 인지세안내
+        숭의역 라온프라이빗 - 인터넷청약안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        숭의역 라온프라이빗의 인지세 안내 페이지는 분양과 관련된 세금
-        정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를
-        사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산
+        숭의역 라온프라이빗의 인터넷청약 안내 페이지는 분양과 관련된 세금
+        정보를 제공합니다. 인터넷청약는 계약서 작성 시 부과되는 세금으로, 이를
+        사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인터넷청약의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
         있도록 돕습니다.
       </p>
@@ -89,14 +89,13 @@ const ComplexGuide1 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      {/* <img
+      <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="숭의역 라온프라이빗 인지세안내-image1"
+        alt="숭의역 라온프라이빗 인터넷청약안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-      /> */}
+      />
 
-      <Ready/>
 
 
       <div className={styles.commonBox2}>

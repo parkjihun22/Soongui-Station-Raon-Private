@@ -32,9 +32,9 @@ const menuArray = [
     title: "청약안내",
     subMenu: [
       { subTitle: "청약방법안내", subUrl: "/SalesInfo/SubscriptionGuide" },
-      { subTitle: "청약안내문", subUrl: "/SalesInfo/guide" },
+      { subTitle: "청약체크포인트", subUrl: "/SalesInfo/guide" },
       { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-      { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
+      { subTitle: "인터넷청약안내", subUrl: "/SalesInfo/stampTax" },
     ],
   },
   {
@@ -56,11 +56,11 @@ const menuArray = [
     title: "세대안내",
     subMenu: [
       { subTitle: "59A", subUrl: "/FloorPlan/59A" },
-      { subTitle: "84A", subUrl: "/FloorPlan/59B" },
-      { subTitle: "84B", subUrl: "/FloorPlan/84A" },
-      { subTitle: "84C", subUrl: "/FloorPlan/84B" },
-      { subTitle: "84D", subUrl: "/FloorPlan/114A" },
-      { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
+      { subTitle: "59B", subUrl: "/FloorPlan/59B" },
+      { subTitle: "84A", subUrl: "/FloorPlan/84A" },
+      // { subTitle: "84C", subUrl: "/FloorPlan/84B" },
+      // { subTitle: "84D", subUrl: "/FloorPlan/114A" },
+      // { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
     ],
   },
   {
@@ -107,9 +107,9 @@ export default function Header() {
         <div className={styles.mobileHeader}>
           <div onClick={() => setIsMobileMenu((v) => !v)}>
             {!isMobileMenu ? (
-              <AiOutlineMenu className={styles.icon} size={25} color="#710101" />
+              <AiOutlineMenu className={styles.icon} size={25} color="#171e3b" />
             ) : (
-              <IoCloseSharp className={styles.icon} size={25} color="#710101" />
+              <IoCloseSharp className={styles.icon} size={25} color="#171e3b" />
             )}
           </div>
           {isMobileMenu && (
@@ -123,7 +123,7 @@ export default function Header() {
             <img src={mainlogowhite} alt="Logo" className={styles.logo} />
           </Link>
           <a href="tel:1533-8848">
-            <IoCall className={styles.icon} size={25} color="#710101" />
+            <IoCall className={styles.icon} size={25} color="#171e3b" />
           </a>
         </div>
         {isInterestPopupOpen && (

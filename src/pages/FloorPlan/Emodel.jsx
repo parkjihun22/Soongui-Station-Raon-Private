@@ -11,15 +11,15 @@ import { Helmet } from "react-helmet-async";
 
 const Emodel = () => {
   const menuContents = [
-    { title: "1,2단지", key: "1,2단지" },
-    { title: "3,5단지", key: "3,5단지" },
+    // { title: "1,2단지", key: "1,2단지" },
+    // { title: "3,5단지", key: "3,5단지" },
     // { title: "84A", key: "84A" },
     // { title: "84B", key: "84B" },
   ];
 
   const vrUrls = {
-    "1,2단지": "https://www.Raon.co.kr/upload/2024/07/20240719023756017530/tour.html",
-    "3,5단지": "https://www.Raon.co.kr/upload/2024/11/20241107065049013129/tour.html",
+    // "1,2단지": "https://www.Raon.co.kr/upload/2024/07/20240719023756017530/tour.html",
+    // "3,5단지": "https://www.Raon.co.kr/upload/2024/11/20241107065049013129/tour.html",
     // "84A": "https://www.prugio.com/hb/2025/onecluster/vr/84a.html",
     // "84B": "https://www.prugio.com/hb/2025/onecluster/vr/84b.html",
   };

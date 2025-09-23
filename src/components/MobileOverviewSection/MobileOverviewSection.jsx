@@ -6,7 +6,7 @@ import styles from "./MobileOverviewSection.module.scss";
 // 1) 모바일 메인 히어로 이미지
 import heroImage from "../../assets/Main/heroImage.jpg";
 // 2) 입지환경 지도
-import mobileMap from "../../assets/LocationEnvironment/LocationEnvironment1/page1.jpg";
+import mobileMap from "../../assets/LocationEnvironment/LocationEnvironment1/premium01.jpg";
 import mobileMap2 from "../../assets/LocationEnvironment/LocationEnvironment2/page2.jpg";
 // 3) 프리미엄 슬라이드 이미지들
 import slide1 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-1.jpg";
@@ -28,7 +28,7 @@ const items = [
         </li>
         <li>
           <strong>대지위치</strong>
-          <span>인천광역시 중구 신흥동3가 일원</span>
+          <span>인천광역시 중구 신흥동3가 7-79번지 외 25필지</span>
         </li>
         <li>
           <strong>건축규모</strong>

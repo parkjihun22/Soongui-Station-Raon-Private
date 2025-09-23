@@ -66,14 +66,14 @@
   justify-content: space-between;
   align-items: center;
   font-size: 4vw;             /* 글자 크기 소폭 상향 */
-  color: #710101;
+  color: #171e3b;
   font-weight: 700;               /* 연한 민트 계열로 변경 */
   cursor: pointer;
   transition: color 0.2s ease;
 
   &.active,
   &:hover {
-    color: #710101;             /* 좀 더 진한 민트톤 */
+    color: #171e3b;             /* 좀 더 진한 민트톤 */
     font-weight: 700;
   }
 }

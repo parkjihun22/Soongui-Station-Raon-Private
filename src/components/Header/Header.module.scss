@@ -10,12 +10,12 @@
   }
   
   /* GIF 배너: 전체 너비, 중앙 정렬, 양쪽 초록색 배경 */
-  .gifBanner {
+  .gifBanner { 
     width: 100%;
     /* gif 배너 높이 + 안전 영역(top) */
     height: calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px));
     text-align: center;
-    background-color: #710101;
+    background-color: #171e3b;
     position: fixed;
     top: 0;
     left: 0;
@@ -62,7 +62,7 @@
     width: 100%;
     height: 4vw; /* 헤더 높이 */
     z-index: 100;
-    background: linear-gradient(135deg, rgba(109, 0, 0, 0.574) 50%, rgba(83, 0, 0, 0.932) 70%);
+    background: linear-gradient(135deg, rgba(12, 28, 70, 0.574) 50%, rgba(4, 14, 44, 0.932) 70%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -157,7 +157,7 @@
   .dropdownItem {
     text-decoration: none;
     font-size: 0.7rem;
-    color: #710101;
+    color: #171e3b;
     padding: 0.5rem 1rem;
     transition: background 0.3s ease;
   
@@ -179,7 +179,7 @@
     width: 100%;
     height: 4vw;
     background-color: #ffffff;
-    border-bottom: 1px solid #710101;
+    border-bottom: 1px solid #171e3b;
     z-index: 1001;
     text-decoration: none;
   
