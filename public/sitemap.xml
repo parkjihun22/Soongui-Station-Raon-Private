@@ -6,7 +6,7 @@
 
     <!-- 홈페이지 -->
     <url>
-        <loc>https://tradexmeds.com/</loc>
+        <loc>https://www.bunyang-114.com/</loc>
         <lastmod>2025-02-04T10:51:45+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
     <!-- 브랜드 소개 -->
     <url>
-        <loc>https://tradexmeds.com/Brand/intro</loc>
+        <loc>https://www.bunyang-114.com/Brand/intro</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
@@ -22,7 +22,7 @@
 
     <!-- 사업안내 -->
     <url>
-        <loc>https://tradexmeds.com/BusinessGuide/intro</loc>
+        <loc>https://www.bunyang-114.com/BusinessGuide/intro</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
@@ -30,7 +30,7 @@
 
     <!-- 단지배치도 -->
     <url>
-        <loc>https://tradexmeds.com/ComplexGuide/intro</loc>
+        <loc>https://www.bunyang-114.com/ComplexGuide/intro</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
@@ -38,21 +38,21 @@
 
     <!-- E-모델하우스 -->
     <url>
-        <loc>https://tradexmeds.com/FloorPlan/Emodel</loc>
+        <loc>https://www.bunyang-114.com/FloorPlan/Emodel</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 
     <!-- 입지환경 -->
     <url>
-        <loc>https://tradexmeds.com/LocationEnvironment/intro</loc>
+        <loc>https://www.bunyang-114.com/LocationEnvironment/intro</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 
     <!-- 관심고객등록 -->
     <url>
-        <loc>https://tradexmeds.com/Promotion/Customer</loc>
+        <loc>https://www.bunyang-114.com/Promotion/Customer</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>

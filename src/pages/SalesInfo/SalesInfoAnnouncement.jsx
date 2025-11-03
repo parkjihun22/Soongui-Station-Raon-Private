@@ -77,7 +77,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="숭의역 라온프라이빗 모집공고를 한눈에 확인하세요. 공급세대수·공급면적·분양가, 청약일정·자격, 당첨자 발표·계약 및 유의사항을 안내합니다."
           />
-          <link rel="canonical" href="https://tradexmeds.com/SalesInfo/announcement" />
+          <link rel="canonical" href="https://www.bunyang-114.com/SalesInfo/announcement" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

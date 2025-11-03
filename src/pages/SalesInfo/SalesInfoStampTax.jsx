@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="숭의역 라온프라이빗 분양계약 시 필요한 인터넷 청약하는 방법과 유의사항을 한눈에 확인하세요."
           />
-          <link rel="canonical" href="https://tradexmeds.com/SalesInfo/stampTax" />
+          <link rel="canonical" href="https://www.bunyang-114.com/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

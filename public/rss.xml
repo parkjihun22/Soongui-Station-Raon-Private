@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>숭의역 라온프라이빗 | 청약·분양·모델하우스 공식 홈페이지</title>
-    <link>https://tradexmeds.com/</link>
+    <link>https://www.bunyang-114.com/</link>
     <description>숭의역 라온프라이빗 | ☎️1533-8848 | 분양·청약·모델하우스·세대안내·인테리어·언론보도·고객센터</description>
     <language>ko-KR</language>
-    <atom:link href="https://tradexmeds.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.bunyang-114.com/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- 브랜드소개 -->
     <item>
       <title>브랜드 소개</title>
-      <link>https://tradexmeds.com/Brand/intro</link>
-      <guid isPermaLink="true">https://tradexmeds.com/Brand/intro</guid>
+      <link>https://www.bunyang-114.com/Brand/intro</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/Brand/intro</guid>
       <description><![CDATA[라온건설 라온프라이빗의 브랜드 가치, 디자인 철학, 프리미엄 라이프스타일을 소개합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>홍보 영상</title>
-      <link>https://tradexmeds.com/Brand/video</link>
-      <guid isPermaLink="true">https://tradexmeds.com/Brand/video</guid>
+      <link>https://www.bunyang-114.com/Brand/video</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/Brand/video</guid>
       <description><![CDATA[숭의역 라온프라이빗의 입지, 교통, 생활 인프라를 영상으로 소개합니다. 브랜드 철학과 단지 가치를 한눈에 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -26,15 +26,15 @@
     <!-- 사업개요 -->
     <item>
       <title>사업 안내</title>
-      <link>https://tradexmeds.com/BusinessGuide/intro</link>
-      <guid isPermaLink="true">https://tradexmeds.com/BusinessGuide/intro</guid>
+      <link>https://www.bunyang-114.com/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/BusinessGuide/intro</guid>
       <description><![CDATA[인천 중구 신흥동3가 일원. 숭의역 도보권, 인천 내·외곽 교통망과 풍부한 생활 인프라를 갖춘 사업 개요를 안내합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>분양 일정</title>
-      <link>https://tradexmeds.com/BusinessGuide/plan</link>
-      <guid isPermaLink="true">https://tradexmeds.com/BusinessGuide/plan</guid>
+      <link>https://www.bunyang-114.com/BusinessGuide/plan</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/BusinessGuide/plan</guid>
       <description><![CDATA[모델하우스 오픈, 청약 접수, 당첨자 발표, 계약 등 분양 일정을 한눈에 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -42,29 +42,29 @@
     <!-- 청약안내 -->
     <item>
       <title>청약 방법 안내</title>
-      <link>https://tradexmeds.com/SalesInfo/SubscriptionGuide</link>
-      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/SubscriptionGuide</guid>
+      <link>https://www.bunyang-114.com/SalesInfo/SubscriptionGuide</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/SalesInfo/SubscriptionGuide</guid>
       <description><![CDATA[청약 절차와 준비 방법, 온라인 청약 시스템 사용법과 유의사항을 안내합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>청약 체크포인트</title>
-      <link>https://tradexmeds.com/SalesInfo/guide</link>
-      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/guide</guid>
+      <link>https://www.bunyang-114.com/SalesInfo/guide</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/SalesInfo/guide</guid>
       <description><![CDATA[청약 자격, 필요 서류, 가점제 조건 등 꼭 확인해야 할 핵심 체크포인트를 정리했습니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>모집 공고 안내</title>
-      <link>https://tradexmeds.com/SalesInfo/announcement</link>
-      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/announcement</guid>
+      <link>https://www.bunyang-114.com/SalesInfo/announcement</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/SalesInfo/announcement</guid>
       <description><![CDATA[공급 규모, 분양가, 청약 자격 요건, 당첨자 발표 및 계약 절차까지 모집공고 내용을 제공합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>인터넷 청약 안내</title>
-      <link>https://tradexmeds.com/SalesInfo/stampTax</link>
-      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/stampTax</guid>
+      <link>https://www.bunyang-114.com/SalesInfo/stampTax</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/SalesInfo/stampTax</guid>
       <description><![CDATA[인터넷 청약 방법과 신청 절차, 유의사항을 안내합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -72,15 +72,15 @@
     <!-- 입지환경 -->
     <item>
       <title>입지 안내</title>
-      <link>https://tradexmeds.com/LocationEnvironment/intro</link>
-      <guid isPermaLink="true">https://tradexmeds.com/LocationEnvironment/intro</guid>
+      <link>https://www.bunyang-114.com/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/LocationEnvironment/intro</guid>
       <description><![CDATA[숭의역 도보권 초역세권 입지. 인천 주요 교통망, 의료·교육·쇼핑 인프라와 쾌적한 자연환경을 갖췄습니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프리미엄</title>
-      <link>https://tradexmeds.com/LocationEnvironment/premium</link>
-      <guid isPermaLink="true">https://tradexmeds.com/LocationEnvironment/premium</guid>
+      <link>https://www.bunyang-114.com/LocationEnvironment/premium</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/LocationEnvironment/premium</guid>
       <description><![CDATA[교통·교육·의료·쇼핑 프리미엄을 집약한 숭의역 라온프라이빗의 미래가치와 생활 인프라를 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -88,22 +88,22 @@
     <!-- 단지안내 -->
     <item>
       <title>단지 배치도</title>
-      <link>https://tradexmeds.com/ComplexGuide/intro</link>
-      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/intro</guid>
+      <link>https://www.bunyang-114.com/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/ComplexGuide/intro</guid>
       <description><![CDATA[단지 배치도, 조경, 동선 계획을 확인하세요. 쾌적한 생활환경과 안전한 설계를 제공합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>호수 배치도</title>
-      <link>https://tradexmeds.com/ComplexGuide/detailintro</link>
-      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/detailintro</guid>
+      <link>https://www.bunyang-114.com/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/ComplexGuide/detailintro</guid>
       <description><![CDATA[세대 동·호수 배치 정보, 채광과 조망 확인에 유용한 안내를 제공합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>커뮤니티</title>
-      <link>https://tradexmeds.com/ComplexGuide/community</link>
-      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/community</guid>
+      <link>https://www.bunyang-114.com/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/ComplexGuide/community</guid>
       <description><![CDATA[피트니스, GX룸, 라운지, 어린이 놀이터 등 다양한 커뮤니티 시설 구성과 이용 정보를 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -111,22 +111,22 @@
     <!-- 세대안내 -->
     <item>
       <title>59A</title>
-      <link>https://tradexmeds.com/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/59A</guid>
+      <link>https://www.bunyang-114.com/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/FloorPlan/59A</guid>
       <description><![CDATA[전용 59A 평면도와 공간 활용 아이디어를 확인하세요. 실거주에 적합한 합리적 구조를 갖췄습니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>59B</title>
-      <link>https://tradexmeds.com/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/59B</guid>
+      <link>https://www.bunyang-114.com/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/FloorPlan/59B</guid>
       <description><![CDATA[전용 59B 타입 평면 구성과 특징을 소개합니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>84A</title>
-      <link>https://tradexmeds.com/FloorPlan/84A</link>
-      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/84A</guid>
+      <link>https://www.bunyang-114.com/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/FloorPlan/84A</guid>
       <description><![CDATA[전용 84A 평면도, 채광과 통풍을 고려한 설계를 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -134,8 +134,8 @@
     <!-- 인테리어 -->
     <item>
       <title>인테리어</title>
-      <link>https://tradexmeds.com/Interior/59A</link>
-      <guid isPermaLink="true">https://tradexmeds.com/Interior/59A</guid>
+      <link>https://www.bunyang-114.com/Interior/59A</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/Interior/59A</guid>
       <description><![CDATA[숭의역 라온프라이빗의 인테리어 콘셉트와 마감·옵션 스타일을 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -143,15 +143,15 @@
     <!-- 홍보센터 -->
     <item>
       <title>언론보도</title>
-      <link>https://tradexmeds.com/Promotion/Press</link>
-      <guid isPermaLink="true">https://tradexmeds.com/Promotion/Press</guid>
+      <link>https://www.bunyang-114.com/Promotion/Press</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/Promotion/Press</guid>
       <description><![CDATA[숭의역 라온프라이빗 언론보도 모음. 분양, 입지, 개발호재 등 최신 기사와 보도자료를 확인하세요.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>관심 고객 등록</title>
-      <link>https://tradexmeds.com/Promotion/Customer</link>
-      <guid isPermaLink="true">https://tradexmeds.com/Promotion/Customer</guid>
+      <link>https://www.bunyang-114.com/Promotion/Customer</link>
+      <guid isPermaLink="true">https://www.bunyang-114.com/Promotion/Customer</guid>
       <description><![CDATA[관심 고객 등록 시 청약 정보, 모델하우스 오픈, 분양 일정을 우선 안내드립니다.]]></description>
       <pubDate>Mon, 23 Sep 2025 14:00:00 +0900</pubDate>
     </item>

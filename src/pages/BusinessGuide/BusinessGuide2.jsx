@@ -57,7 +57,7 @@ const BusinessGuide2 = () => {
                     name="description"
                     content="인천 숭의역 라온프라이빗 분양일정을 한눈에 확인하세요. 청약 접수일, 특별공급·1순위 일정, 모델하우스 오픈, 당첨자 발표 및 계약 일정까지 상세히 안내합니다."
                 />
-                <link rel="canonical" href="https://tradexmeds.com/BusinessGuide/plan" />
+                <link rel="canonical" href="https://www.bunyang-114.com/BusinessGuide/plan" />
                 <meta name="robots" content="index,follow" />
             </Helmet>
 

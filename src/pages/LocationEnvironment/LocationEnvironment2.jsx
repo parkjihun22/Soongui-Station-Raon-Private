@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
             name="description"
             content="인천 숭의역 라온프라이빗 프리미엄을 확인하세요. 1호선 숭의역 초역세권 입지, 인천 도심과 수도권을 연결하는 교통망, 생활·교육·문화 인프라와 함께 라온프라이빗 브랜드 가치가 더해진 프리미엄 주거 환경을 제공합니다."
           />
-          <link rel="canonical" href="https://tradexmeds.com/LocationEnvironment/premium" />
+          <link rel="canonical" href="https://www.bunyang-114.com/LocationEnvironment/premium" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

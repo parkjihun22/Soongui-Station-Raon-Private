@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
 				<meta name="robots" content="index,follow" />
 				<link
 					rel="canonical"
-					href="https://tradexmeds.com/BusinessGuide/documents"
+					href="https://www.bunyang-114.com/BusinessGuide/documents"
 				/>
 
 				{/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
 					property="og:description"
 					content="숭의역 라온프라이빗 계약서류 안내: 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 확인하세요."
 				/>
-				<meta property="og:url" content="https://tradexmeds.com/BusinessGuide/documents" />
-				<meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+				<meta property="og:url" content="https://www.bunyang-114.com/BusinessGuide/documents" />
+				<meta property="og:image" content="https://www.bunyang-114.com/Main1.png" />
 			</Helmet>
 
 			<Header isChanged={isScroll} />

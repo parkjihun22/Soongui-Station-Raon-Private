@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="숭의역 라온프라이빗 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
           />
-          <link rel="canonical" href="https://tradexmeds.com/SalesInfo/SubscriptionGuide" />
+          <link rel="canonical" href="https://www.bunyang-114.com/SalesInfo/SubscriptionGuide" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

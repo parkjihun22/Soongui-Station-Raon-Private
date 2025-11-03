@@ -101,7 +101,7 @@ const LocationEnvironment1 = () => {
             content="인천 숭의역 라온프라이빗의 입지환경을 확인하세요. 수도권 지하철 1호선 숭의역 초역세권 입지, 인천 내·외곽 교통망, 풍부한 생활 인프라와 쾌적한 주거 환경을 갖춘 핵심 입지."
           />
           <meta name="robots" content="index,follow" />
-          <link rel="canonical" href="https://tradexmeds.com/LocationEnvironment/intro" />
+          <link rel="canonical" href="https://www.bunyang-114.com/LocationEnvironment/intro" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
@@ -111,8 +111,8 @@ const LocationEnvironment1 = () => {
             property="og:description"
             content="숭의역 라온프라이빗 입지환경: 1호선 숭의역 도보권, 인천대로·제2순환고속도로 등 광역 교통망, 교육·쇼핑·공원 등 생활 인프라를 모두 갖춘 입지."
           />
-          <meta property="og:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
-          <meta property="og:image" content="https://tradexmeds.com/img/og/location.jpg" />
+          <meta property="og:url" content="https://www.bunyang-114.com/LocationEnvironment/intro" />
+          <meta property="og:image" content="https://www.bunyang-114.com/img/og/location.jpg" />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="630" />
 
@@ -123,8 +123,8 @@ const LocationEnvironment1 = () => {
             name="twitter:description"
             content="숭의역 라온프라이빗 입지환경: 숭의역 초역세권, 인천대로·제2순환고속도로, 교육·편의·공원 인프라로 생활과 미래가치를 동시에 누리는 입지."
           />
-          <meta name="twitter:image" content="https://tradexmeds.com/img/og/location.jpg" />
-          <meta name="twitter:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
+          <meta name="twitter:image" content="https://www.bunyang-114.com/img/og/location.jpg" />
+          <meta name="twitter:url" content="https://www.bunyang-114.com/LocationEnvironment/intro" />
 
           {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
           <script type="application/ld+json">
@@ -132,20 +132,20 @@ const LocationEnvironment1 = () => {
               "@context": "https://schema.org",
               "@type": "WebPage",
               "name": "숭의역 라온프라이빗 - 입지환경",
-              "url": "https://tradexmeds.com/LocationEnvironment/intro",
+              "url": "https://www.bunyang-114.com/LocationEnvironment/intro",
               "description":
                 "인천 숭의역 라온프라이빗 입지환경: 1호선 숭의역 도보권, 인천대로·제2순환고속도로 교통망, 교육·쇼핑·공원 인프라를 두루 갖춘 핵심 입지.",
               "primaryImageOfPage": {
                 "@type": "ImageObject",
-                "contentUrl": "https://tradexmeds.com/img/og/location.jpg",
+                "contentUrl": "https://www.bunyang-114.com/img/og/location.jpg",
                 "width": 1200,
                 "height": 630
               },
               "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://tradexmeds.com/" },
-                  { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://tradexmeds.com/LocationEnvironment/intro" }
+                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.bunyang-114.com/" },
+                  { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.bunyang-114.com/LocationEnvironment/intro" }
                 ]
               }
             })}

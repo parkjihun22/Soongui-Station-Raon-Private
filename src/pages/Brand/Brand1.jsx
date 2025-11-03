@@ -53,7 +53,7 @@ const Brand1 = () => {
                     name="description"
                     content="라온건설 라온프라이빗 브랜드 철학과 가치를 담은 숭의역 라온프라이빗. 품질 기준, 첨단 시공 기술, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
                 />
-                <link rel="canonical" href="https://tradexmeds.com/Brand/intro" />
+                <link rel="canonical" href="https://www.bunyang-114.com/Brand/intro" />
                 <meta name="robots" content="index,follow" />
 
                 {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
                     property="og:description"
                     content="라온건설 라온프라이빗 브랜드 소개: 철학과 가치, 프리미엄 품질 기준과 시공 신뢰성으로 완성되는 인천 숭의역 라온프라이빗."
                 />
-                <meta property="og:url" content="https://tradexmeds.com/Brand/intro" />
-                <meta property="og:image" content="https://tradexmeds.com/images/og/main.jpg" />
+                <meta property="og:url" content="https://www.bunyang-114.com/Brand/intro" />
+                <meta property="og:image" content="https://www.bunyang-114.com/images/og/main.jpg" />
             </Helmet>
 
             <Header isChanged={isScroll} />

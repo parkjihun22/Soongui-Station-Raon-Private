@@ -50,7 +50,7 @@ const Brand2 = () => {
 					name="description"
 					content="인천 숭의역 라온프라이빗 홍보영상을 통해 초역세권 입지, 세대 설계, 커뮤니티 시설, 생활 인프라와 미래가치를 생생하게 확인하세요."
 				/>
-				<link rel="canonical" href="https://tradexmeds.com/Brand/video" />
+				<link rel="canonical" href="https://www.bunyang-114.com/Brand/video" />
 				<meta name="robots" content="index,follow" />
 
 				{/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
 					property="og:description"
 					content="숭의역 라온프라이빗 홍보영상: 세대 설계, 커뮤니티 시설, 생활 인프라, 교통 프리미엄을 생생하게 만나보세요."
 				/>
-				<meta property="og:url" content="https://tradexmeds.com/Brand/video" />
-				<meta property="og:image" content="https://tradexmeds.com/images/og/main.jpg" />
+				<meta property="og:url" content="https://www.bunyang-114.com/Brand/video" />
+				<meta property="og:image" content="https://www.bunyang-114.com/images/og/main.jpg" />
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
 					name="twitter:description"
 					content="숭의역 라온프라이빗 홍보영상: 초역세권 입지와 최신 설계, 커뮤니티, 생활 프리미엄을 영상으로 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://tradexmeds.com/images/og/main.jpg" />
+				<meta name="twitter:image" content="https://www.bunyang-114.com/images/og/main.jpg" />
 			</Helmet>
 
 			<Header isChanged={isScroll} />

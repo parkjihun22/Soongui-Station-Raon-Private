@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "숭의역 라온프라이빗", url: "https://tradexmeds.com/" },
+  { name: "숭의역 라온프라이빗", url: "https://www.bunyang-114.com/" },
 ];
 
 const Footer = () => {

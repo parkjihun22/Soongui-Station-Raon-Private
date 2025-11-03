@@ -57,7 +57,7 @@ const projectData = [
 			content="인천 숭의역 라온프라이빗의 사업 개요와 입지 정보를 확인하세요. 숭의역 도보권 초역세권, 지상 41층 주상복합(아파트 59·84㎡, 오피스텔 44㎡)로 완성되는 주거 가치를 안내합니다."
 		  />
 		  <meta name="robots" content="index,follow" />
-		  <link rel="canonical" href="https://tradexmeds.com/BusinessGuide/intro" />
+		  <link rel="canonical" href="https://www.bunyang-114.com/BusinessGuide/intro" />
   
 		  {/* Open Graph */}
 		  <meta property="og:type" content="website" />
@@ -67,8 +67,8 @@ const projectData = [
 			property="og:description"
 			content="숭의역 라온프라이빗 사업 개요: 인천 중구 신흥동3가, 지상 41층 주상복합(아파트 440세대 · 오피스텔 168실), 숭의역 도보권 입지."
 		  />
-		  <meta property="og:url" content="https://tradexmeds.com/BusinessGuide/intro" />
-		  <meta property="og:image" content="https://tradexmeds.com/img/og/business.jpg" />
+		  <meta property="og:url" content="https://www.bunyang-114.com/BusinessGuide/intro" />
+		  <meta property="og:image" content="https://www.bunyang-114.com/img/og/business.jpg" />
 		  <meta property="og:image:width" content="1200" />
 		  <meta property="og:image:height" content="630" />
   
@@ -79,8 +79,8 @@ const projectData = [
 			name="twitter:description"
 			content="숭의역 라온프라이빗 사업 개요와 입지: 숭의역 초역세권, 41층 주상복합(아파트 59·84㎡, 오피스텔 44㎡)의 프리미엄 가치."
 		  />
-		  <meta name="twitter:image" content="https://tradexmeds.com/img/og/business.jpg" />
-		  <meta name="twitter:url" content="https://tradexmeds.com/BusinessGuide/intro" />
+		  <meta name="twitter:image" content="https://www.bunyang-114.com/img/og/business.jpg" />
+		  <meta name="twitter:url" content="https://www.bunyang-114.com/BusinessGuide/intro" />
   
 		  {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
 		  <script type="application/ld+json">
@@ -88,20 +88,20 @@ const projectData = [
 			  "@context": "https://schema.org",
 			  "@type": "WebPage",
 			  "name": "숭의역 라온프라이빗 - 사업안내",
-			  "url": "https://tradexmeds.com/BusinessGuide/intro",
+			  "url": "https://www.bunyang-114.com/BusinessGuide/intro",
 			  "description":
 				"인천 숭의역 라온프라이빗 사업 개요와 입지 정보. 지상 41층 주상복합, 아파트 440세대·오피스텔 168실, 숭의역 도보권 입지.",
 			  "primaryImageOfPage": {
 				"@type": "ImageObject",
-				"contentUrl": "https://tradexmeds.com/img/og/business.jpg",
+				"contentUrl": "https://www.bunyang-114.com/img/og/business.jpg",
 				"width": 1200,
 				"height": 630
 			  },
 			  "breadcrumb": {
 				"@type": "BreadcrumbList",
 				"itemListElement": [
-				  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://tradexmeds.com/" },
-				  { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://tradexmeds.com/BusinessGuide/intro" }
+				  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.bunyang-114.com/" },
+				  { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.bunyang-114.com/BusinessGuide/intro" }
 				]
 			  }
 			})}
